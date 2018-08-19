@@ -1,8 +1,0 @@
-name: TestCommand
-version: 1.0
-main: com.gmail.ama84472.PluginTest.TestPlugin
-description: Testing Command Plugin
-
-commands:
-    commandTest:
-        usage: /<commandTest>
